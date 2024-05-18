@@ -1,0 +1,7 @@
+# Paste your YouTube URL here.
+#
+# You can download the latest version of YT-DLP from:
+# https://github.com/yt-dlp/yt-dlp/releases
+#
+# To make a comment or skip downloading a video, use the "#" character at the start of every line. Like the example below:
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ
